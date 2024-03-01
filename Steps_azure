@@ -1,0 +1,11 @@
+Navigate to Azure Portal: Visit the Azure Portal website at https://portal.azure.com/.
+Sign Up for Azure Account: If you don't have an Azure account, you'll need to sign up. If you have a Microsoft Account you can login through this account.Otherwise create an account.Click on the "Start free" or "Start" button depending on the offers available
+Provide Account Information: You'll be asked to provide basic information such as your email address, country/region, and preferred language.
+Verify your Identity: You'll need to verify your identity, usually through a verification code sent to your email or phone number.
+Choose Subscription Type: Select the subscription type that best fits your needs. Azure offers various subscription options including Free Trial, Pay-As-You-Go, and others.
+Provide Payment Information (if necessary): Depending on the subscription type you choose, you may need to provide payment information. Azure may require a credit card for identity verification purposes, even for free trials.
+Access Azure Portal: Once your account is created and verified, you can log in to the Azure Portal using the credentials you provided during the sign-up process.
+Explore Azure Services: After logging in, you'll have access to the Azure Portal dashboard where you can explore and manage various Azure services and resources.
+Set Up Additional Security: Consider setting up additional security measures such as Multi-Factor Authentication (MFA) to enhance the security of your Azure account.
+Manage Subscriptions and Billing: Within the Azure Portal, you can manage your subscriptions, view usage and billing information, and adjust settings as needed.
+Remember to keep your account credentials secure and follow best practices for managing your Azure resources to ensure the security and efficiency of your cloud services.
